@@ -14,8 +14,10 @@ There is an extensive number of insurance providers in the United States (Aetna,
 
 ## 4. Coding exercise: You are tasked to write a checker that validates the parentheses of a LISP code.  Write a program (in Java or JavaScript) which takes in a string as an input and returns true if all the parentheses in the string are properly closed and nested.
 Please find the solution for this coding exercise in the parenthesisChecker.js file within the parentheses-checker-assignment directory. This file can be ran by running the following commands:
+        
         ```
         cd parentheses-checker-assignment
+
         node parenthesesChecker.js
         ```
 
