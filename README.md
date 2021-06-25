@@ -15,11 +15,8 @@ There is an extensive number of insurance providers in the United States (Aetna,
 ## 4. Coding exercise: You are tasked to write a checker that validates the parentheses of a LISP code.  Write a program (in Java or JavaScript) which takes in a string as an input and returns true if all the parentheses in the string are properly closed and nested.
 Please find the solution for this coding exercise in the parenthesisChecker.js file within the parentheses-checker-assignment directory. This file can be ran by running the following commands:
         
-        ```
         cd parentheses-checker-assignment
-
         node parenthesesChecker.js
-        ```
 
 ## 5. Coding exercise: For frontend engineer: Healthcare providers request to be part of the Availity system.  Using a modern JavaScript framework (React preferred, or Vue or Angular), create a registration user interface so healthcare providers can electronically join Availity. The following data points should be collected: First Name, Last Name, NPI number, Business Address, Telephone Number, Email address.
 This is a React application that simulates a registration form for a healthcare provider to join Availity. I used Material-UI as a styling library, Formik library and Yup JavaScript Schema.
